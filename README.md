@@ -8,7 +8,7 @@ This will improve the Dx as less time is required to write custom voters for eac
 Minimal modifications should be required to these voters to make them applicable to your project.
 
 ## Wave 1 Voters
-- SonarQube
+- [SonarQube](./sonarqube/)
 - Spell Check
 - File Existence Checks
 - Link Resolution Checks

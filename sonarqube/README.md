@@ -1,7 +1,9 @@
 # SonarQube Voter
 SonarQube is a code analysis tool that analyses the quality, format and security of code.
 
-It provides a simple 'go/no go' system, AKA the voter passes if there are no issues, and fails if there are
+It provides a simple 'go/no go' system, AKA the voter passes if there are no issues, and fails if there are.
+
+SonarQube is run on a branch, as opposed to running as a Pull Request Check, due to licensing issues.
 
 ## Configuration
 > [!NOTE]
