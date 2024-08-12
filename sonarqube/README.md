@@ -1,0 +1,2 @@
+# SonarQube Voter
+TBF
