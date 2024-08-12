@@ -9,9 +9,9 @@ Minimal modifications should be required to these voters to make them applicable
 
 ## Wave 1 Voters
 - [SonarQube](./sonarqube/)
-- Spell Check
-- File Existence Checks
-- Link Resolution Checks
+- [Spell Check](./spell-check/)
+- [File Existence Checks](./file-existence/)
+- [Link Resolution Checks](./link-resolver/)
 
 ## Wave 2 Voters
 - Container Build Checks
